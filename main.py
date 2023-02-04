@@ -1,8 +1,5 @@
 # Luke Weber, 11398889
-# CptS 570, HW #5
 # Created 11/25/2016
-
-# Problem 3
 
 """
 SUMMARY
