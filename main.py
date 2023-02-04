@@ -1,4 +1,4 @@
-# Luke Weber, 11398889
+# Luke Weber
 # Created 11/25/2016
 
 """
